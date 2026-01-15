@@ -24,7 +24,7 @@
           },
           {
             "title": "<TextStyle.Black>◤──•~Connected Players!~•──◥</>",
-            "text": "<TextStyle.Black>{playerlist}</>"
+            "text": "<TextStyle.Green> {playerlist} </>"
           }
         ]
       },
