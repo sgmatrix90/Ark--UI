@@ -19,11 +19,11 @@
         "imageurl": "https://i.postimg.cc/nhHw9pQn/Image-Jan-3-2026.png",
         "content": [
           {
-            "title": "<TextStyle.Black>◤──•~Welcome to Ascendra!~•──◥</>",
-            "text": "<TextStyle.Black>◤──•~Welcome to Ascendra PvE Cluster~•──◥</>\n\n<TextStyle.Black>We're a laid-back, feature-packed PvE Ark Ascended server built for players who just want to enjoy the game.</>\n\n\n<TextStyle.Black>~•──◥Staff Team!~•──◥</>\n<TextStyle.Black>Community Manager-Matrix</>\n<TextStyle.Black>Head Admin-Joe93</>\n\n<TextStyle.Black>~•──◥Progression & Perks~•──◥</>\n<TextStyle.Black>-Monthly Battlepass - COMING SOON</>\n<TextStyle.Black>-In-game Points Shop - COMING SOON</>\n<TextStyle.Black>-Better Breeding System</>\n<TextStyle.Black>-Boosted Rate Weekends - COMING SOON</>\n<TextStyle.Black>-Play2Win: Earn points for our ingame shop with your playtime - COMING SOON</>\n<TextStyle.Black>-Automated donation system via our website -COMING SOON</>\n<TextStyle.Black>-No wipes Friendly, helpful community</>"
+            "title": "<RichColor Color=\"0,1,0,1\">◤──•~Welcome to Ascendra!~•──◥</>",
+            "text": "<RichColor Color=\"0,1,0,1\">◤──•~Welcome to Ascendra PvE Cluster~•──◥</>\n\n<RichColor Color=\"0,1,0,1\">We're a laid-back, feature-packed PvE Ark Ascended server built for players who just want to enjoy the game.</>\n\n\n<RichColor Color=\"0,1,0,1\">~•──◥Staff Team!~•──◥</>\n<RichColor Color=\"0,1,0,1\">Community Manager-Matrix</>\n<RichColor Color=\"0,1,0,1\">Head Admin-Joe93</>\n\n<RichColor Color=\"0,1,0,1\">~•──◥Progression & Perks~•──◥</>\n<RichColor Color=\"0,1,0,1\">-Monthly Battlepass - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-In-game Points Shop - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Better Breeding System</>\n<RichColor Color=\"0,1,0,1\">-Boosted Rate Weekends - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Play2Win: Earn points for our in-game shop with your playtime - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Automated donation system via our website -COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-No wipes Friendly, helpful community</>"
           },
           {
-            "title": "<TextStyle.Black>◤──•~Connected Players!~•──◥</>",
+            "title": "<RichColor Color=\"0,1,0,1\">◤──•~Connected Players!~•──◥</>",
             "text": "{playerlist}"
           }
         ]
