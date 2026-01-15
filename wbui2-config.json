@@ -7,7 +7,7 @@
       "iconurl": "https://i.postimg.cc/RZMbJ4nS/Image-Jan-5-2026.png",
       "disableicontext": false,
       "iconposition": 3,
-      "icontextcolor": 0,
+      "icontextcolor": 2,
       "openonstart": true,
       "openonstartonlynewplayers": true,
       "updateinterval": 1
@@ -20,7 +20,7 @@
         "content": [
           {
             "title": "<RichColor Color=\"0,1,0,1\">◤──•~Welcome to Ascendra!~•──◥</>",
-            "text": "<RichColor Color=\"0,1,0,1\">◤──•~Welcome to Ascendra PvE Cluster~•──◥</>\n\n<RichColor Color=\"0,1,0,1\">We're a laid-back, feature-packed PvE Ark Ascended server built for players who just want to enjoy the game.</>\n\n\n<RichColor Color=\"0,1,0,1\">~•──◥Staff Team!~•──◥</>\n<RichColor Color=\"0,1,0,1\">Community Manager-Matrix</>\n<RichColor Color=\"0,1,0,1\">Head Admin-Joe93</>\n\n<RichColor Color=\"0,1,0,1\">~•──◥Progression & Perks~•──◥</>\n<RichColor Color=\"0,1,0,1\">-Monthly Battlepass - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-In-game Points Shop - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Better Breeding System</>\n<RichColor Color=\"0,1,0,1\">-Boosted Rate Weekends - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Play2Win: Earn points for our in-game shop with your playtime - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Automated donation system via our website -COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-No wipes Friendly, helpful community</>"
+            "text": "<RichColor Color=\"0,1,0,1\">◤──•~Welcome to Ascendra PvE Cluster~•──◥</>\n\n<font size=\"+1\"><RichColor Color=\"0,1,0,1\">We're a laid-back, feature-packed PvE Ark Ascended server built for players who just want to enjoy the game.</></font>\n\n\n<RichColor Color=\"0,1,0,1\">~•──◥Staff Team!~•──◥</>\n<RichColor Color=\"0,1,0,1\">Community Manager-Matrix</>\n<RichColor Color=\"0,1,0,1\">Head Admin-Joe93</>\n\n<RichColor Color=\"0,1,0,1\">~•──◥Progression & Perks~•──◥</>\n<RichColor Color=\"0,1,0,1\">-Monthly Battlepass - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-In-game Points Shop - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Better Breeding System</>\n<RichColor Color=\"0,1,0,1\">-Boosted Rate Weekends - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Play2Win: Earn points for our in-game shop with your playtime - COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-Automated donation system via our website -COMING SOON</>\n<RichColor Color=\"0,1,0,1\">-No wipes Friendly, helpful community</>"
           },
           {
             "title": "<RichColor Color=\"0,1,0,1\">◤──•~Connected Players!~•──◥</>",
